@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Misho
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hi+there+👋;I'm+Misho;Full+Stack+Developer+💻;Welcome+to+my+GitHub+🚀)](https://git.io/typing-svg)
 
 # 💻 Tech Stack:
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
