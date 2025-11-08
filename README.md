@@ -17,11 +17,9 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Programmer-M1shka&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Programmer-M1shka&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-M1shka&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Misho's GitHub stats](https://github-readme-stats.vercel.app/api?username=Programmer-M1shka&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=true&hide_title=false&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Programmer-M1shka&layout=compact&theme=radical&hide_border=false)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Programmer-M1shka&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Programmer-M1shka&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=Programmer-M1shka&theme=radical&no-frame=false&no-bg=false&margin-w=4)
